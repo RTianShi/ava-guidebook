@@ -1,7 +1,7 @@
 # GitHub Pages 配置
 title: "AVA 智能体系统使用手册"
 description: "AVA 桌面级智能体系统的完整使用指南"
-baseurl: ""
+baseurl: "/ava-guidebook"
 url: "https://[your-username].github.io"
 
 # 主题配置
