@@ -11,4 +11,5 @@
 | **知识库** | **本地 RAG**：上传私有文档。开启后，AVA 将优先引用知识库内容回答。 |
 | **相机** | **桌面截图**：截取桌面图片。回车上传截图，可直接指令AVA的分析当前截图。 |
 | **模型选择** | **快速切换**：点击下拉框选择可用模型，系统将根据任务性质即时生效。 |
-<img width="1680" height="969" alt="图片" src="https://github.com/user-attachments/assets/aa7b16a2-3cd6-43b1-826b-bcb07f809e73" />
+<img width="1680" height="969" alt="图片" src="https://github.com/user-attachments/assets/d82fe5bc-bb6e-4c30-a99f-679b0a7f5949" />
+
