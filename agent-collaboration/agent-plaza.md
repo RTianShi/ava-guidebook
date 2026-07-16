@@ -12,3 +12,4 @@
 * **💡 协作提示：**
 当您需要跨节点协作时，可以询问“广场有谁在线”，Ava 将列出所有在线智能体及其角色状态。随后您可以发送协作请求，具备对应能力的智能体将自动建立 A2A 连接并响应。
 ![Agent协作示意图](./agentplaza.png)
+<img width="1920" height="1030" alt="图片" src="https://github.com/user-attachments/assets/9dd3155d-c3a8-48c9-b614-08e4f497350e" />
