@@ -2,4 +2,4 @@
 * **新建知识库：** 进入 `知识库` -> 点击 `新建知识库`。
     * 选择 `向量化模型` 和 `重排序模型`。调整 `分块大小`和 `重叠度`。
 * **MinerU 高保真解析：** 点击右上角 `MinerU API 配置`，输入解析服务地址，开启增强的 PDF 和数学公式解析功能。
-![本地知识库配置示意图](./knowledgebase.jpg)
+<img width="1579" height="969" alt="图片" src="https://github.com/user-attachments/assets/f2dfba6a-ed72-4198-81c5-b3407c7f2b96" />
