@@ -10,4 +10,5 @@
       * 添加并配置专业角色。
       * 自动生成后，您也可以为每个角色单独编辑 Prompt（提示词）及所具备的工具。
 4.  **预览与启动**：检查无误后点击 **"启动"**。您可以实时监控各个 Agent 的任务进度与结果，最终成果将自动输出到 Workspace。
-<img width="1775" height="1056" alt="图片" src="https://github.com/user-attachments/assets/b592501c-0816-40ca-b3ee-48296a4275b6" />
+<img width="1608" height="998" alt="图片" src="https://github.com/user-attachments/assets/64ece338-e181-46c5-8995-2991a259364c" />
+
