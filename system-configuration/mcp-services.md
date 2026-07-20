@@ -7,4 +7,4 @@
 * **添加 MCP 服务：** 点击右上角 **“+ 添加服务”**。
     1.  **手动表单：** 输入服务名称、选择传输方式（通常为 `stdio`）、输入启动命令（如 `npx`）及参数（ARGS）。
     2.  **粘贴 JSON：** 也可以直接点击切换到“粘贴 JSON”模式，一键导入复杂的 MCP 配置代码。
-![MCP服务扩展示意图](./mcp.jpg)
+<img width="1579" height="969" alt="图片" src="https://github.com/user-attachments/assets/13ad730c-7a93-4711-9451-a6e629c82104" />
